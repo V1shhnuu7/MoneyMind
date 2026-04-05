@@ -1,18 +1,15 @@
 # MoneyMind — Financial Literacy Guide
 
-A complete, interactive personal finance guide built as a single self-contained HTML file. Covers all 12 essential topics of financial literacy with live calculators, clear explanations, and a clean dark aesthetic. Built for India.
-
+A complete, interactive personal finance guide built as a single self-contained HTML file. Covers all 12 essential topics of financial literacy with live calculators, clear explanations, and a clean dark aesthetic.
 ![HTML](https://img.shields.io/badge/HTML-single%20file-c8f07a?style=flat-square)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-7af0c8?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-b07af0?style=flat-square)
 
 -----
 
-## Live Demo
+Hosted in netlify 
+https://mmbyzex.netlify.app
 
-Open financial-literacy.html in any modern browser. No server, no build step, no internet connection required after loading fonts.
-
------
 
 ## What’s Inside
 
@@ -43,36 +40,6 @@ Open financial-literacy.html in any modern browser. No server, no build step, no
 - *Tax regime comparator* — old vs new regime with all major deductions
 - *Price-to-rent ratio* — buy vs rent verdict for any property
 - *Net worth calculator* — full assets and liabilities breakdown
-
------
-
-## Features
-
-- *Single HTML file* — everything included, works fully offline
-- *Zero dependencies* — Chart.js loaded from CDN for the SIP chart; everything else is vanilla JS
-- *No build step* — open and use immediately
-- *Responsive* — works on mobile, tablet, and desktop
-- *Dark theme* — easy on the eyes for long reading sessions
-- *Scroll-aware navigation* — sticky topic pill bar highlights your current section
-- *Fade-in animations* — content reveals as you scroll
-- *India-specific* — all figures, instruments (PPF, NPS, EPF), tax slabs, and examples are India-relevant
-
------
-
-## Getting Started
-
-bash
-# Clone the repo
-git clone https://github.com/yourusername/moneymind.git
-
-# Open directly in browser
-open financial-literacy.html
-# or on Linux:
-xdg-open financial-literacy.html
-# or just drag the file into any browser window
-
-
-No npm install. No pip install. No configuration.
 
 -----
 
